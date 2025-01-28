@@ -1,8 +1,8 @@
-
+import Formik from'./Task/formik/formik'
 function App() {
   return (
     <div>
-      <h1>His</h1>
+      <Formik/>
     </div>
   );
 }
